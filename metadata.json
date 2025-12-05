@@ -1,0 +1,5 @@
+{
+  "name": "SmartFood AI",
+  "description": "A sophisticated food recommendation engine leveraging sociological profiling, dynamic user personas, and real-time behavioral tracking to suggest dishes based on physiological (L1), capital (L2), and cultural (L3) dimensions.",
+  "requestFramePermissions": []
+}
